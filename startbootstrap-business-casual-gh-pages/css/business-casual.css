@@ -102,6 +102,16 @@ hr {
     margin: 0 auto 0;
 }
 
+#pincho{
+  padding-left:45px;
+}
+#bread{
+  padding-left:45px;
+}
+#menu-dScript{
+  text-align:center;
+}
+
 
 footer {
     background: #fff;
