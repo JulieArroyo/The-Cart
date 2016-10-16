@@ -92,7 +92,7 @@ hr {
 }
 
 .img-border {
-    float: none;
+    /*float: none;*/
     margin: 0 auto 0;
     border: #999999 solid 1px;
 }
@@ -101,6 +101,7 @@ hr {
     float: none;
     margin: 0 auto 0;
 }
+
 
 footer {
     background: #fff;
